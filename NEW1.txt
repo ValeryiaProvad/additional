@@ -8,6 +8,4 @@ some content
 newnew
 -------------------------
 
-branch
 
-0101010
